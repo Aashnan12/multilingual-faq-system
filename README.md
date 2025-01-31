@@ -18,7 +18,7 @@ A Django-based system for managing multilingual FAQs with automatic translation,
 
 ### Using Docker (Recommended)
 
-Ensure Docker and Docker Compose are installed, then run:
+Ensure Docker and Docker Compose are installed, then run :-
 
 ```bash
 docker-compose up -d
